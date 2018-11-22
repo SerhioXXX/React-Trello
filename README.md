@@ -1,5 +1,5 @@
 ## Step1
-Склонируй и запусти этот проект: git clone https://github.com/SehioXXX
+Склонируй и запусти этот проект: `git clone https://github.com/SerhioXXX/React-Trello`
 ## Step2
 Чтобы установить зависимости проекта, выполни команду `npm install`
 ## Step3
