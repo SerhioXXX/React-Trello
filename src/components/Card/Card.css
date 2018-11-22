@@ -1,0 +1,25 @@
+.card {
+  cursor: -webkit-grab;
+  cursor: grab;
+  background: #7cedff; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #7cedff,
+    #7cccff
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #7cedff,
+    #7cccff
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  min-height: 60px;
+  width: auto;
+  margin-top: 8px;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.card-text {
+  padding: 4px;
+}

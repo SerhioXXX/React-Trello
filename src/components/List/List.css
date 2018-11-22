@@ -1,0 +1,28 @@
+.card-list-container {
+  background-color: #dfe3e6;
+  color: #17394d;
+  width: 300px;
+  padding: 8px;
+  border-radius: 4px;
+  margin: 8px;
+  margin-left: 0;
+  height: fit-content;
+  text-align: center;
+}
+
+.empty-list {
+  color: #858586;
+  text-align: center;
+}
+
+::placeholder {
+  color: black;
+  opacity: 0.5;
+}
+
+@media only screen and (max-width: 733px) {
+  .card-list-container {
+    width: 100%;
+    margin-right: 0;
+  }
+}
